@@ -1,0 +1,112 @@
+start
+int num1,mun2,sum ,diff,pro;
+printf("enter num1")
+scanf("num1")
+printf("enter num2")
+scanf("num2")
+sum=num+num2;
+diff =num1-num2;
+pro=num1*num2;
+printf("sum")
+printf("diff")
+printf("pro")
+end
+
+
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+
+start
+int a;
+printf(enter a num")
+scanf(%d,&a);
+priftf(number in charcter :%c,a)
+priftf(number in charcter :%d,a)
+priftf(number in charcter :%o,a)
+priftf(number in charcter :%x,a)
+end 
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+
+start
+printf(*\n)
+printf(**\n)
+printf(***\n)
+printf(****\n)
+printf(*****\n)
+2nd method
+printf(*\n,**\n,***\n,****\n,*****)
+
+
+
+
+
+
+
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+start
+
+
+priftf(ASCII value for \n)
+
+priftf(ASCII value for \r)
+
+priftf(ASCII value for \t)
+
+priftf(ASCII value for \a)
+priftf(ASCII value for \b)
+
+
+
+end 
+
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+start
+int num
+printf(num)
+scanf(num)
+printf(num*1)
+printf(num*2)
+printf(num*3)
+printf(num*4)
+printf(num*5)
+printf(num*6)
+printf(num*7)
+printf(num*8)
+printf(num*9)
+printf(num*10)
+end
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+
+
+start
+int n1,n2,n3;
+float avg;
+printf(enter the numbers)
+scanf(n1,n2,n3)
+avg=(n1+n2+n3)/3
+printf(avg)
+end
+
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+
+
+
+
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+start
+decl int num,d1,d2,d3;
+printf(enter num)
+scanf(num)///9361
+d1=num/1000=======>9
+num=num%1000======>361
+d2=num/100=====>361/100====>3
+num=num%100=====>61
+d3=num/10====>6
+num=num%10=====>1
+printf(d1,d2,d3,num)//9361
+printf(d1*1000+d2*100,d3*10,num)
+printf(num,d3,d2,d1)//1639s
+end
+
+
+
+
